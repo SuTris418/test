@@ -1,0 +1,6 @@
+20181030 172221  0 - Install successful.
+20181030 172221  ChangeDir to C:\Program Files (x86)\C4ebreg, rc=0
+20181030 172221  Adding root cert...
+20181030 172221  cmd=c:\windows\system32\certutil.exe -f -addstore Root carootcert.der, rc=0
+20181030 172221  Adding intermediate cert...
+20181030 172221  cmd=c:\windows\system32\certutil.exe -f -addstore CA caintermediatecert.der, rc=0
